@@ -1,4 +1,4 @@
-<h2> This is patches for vmware workstation pro 15.0.x, for kernel 5.0.x. </h2>
+<h2> This is patches for vmware workstation pro 15.0.x, to work in kernel 5.0.x. </h2>
 <h3> how its work ? </h3>
 <pre>
 1. install vmware bundle
